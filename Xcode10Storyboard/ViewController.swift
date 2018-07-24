@@ -3,7 +3,7 @@
 //  Xcode10Storyboard
 //
 //  Created by Steven Lipton on 7/19/18.
-//  Copyright © 2018 Steven Lipton. All rights reserved.
+//  Copyright © 2018 Steven Lipton. All rights reserved
 //
 
 import UIKit
